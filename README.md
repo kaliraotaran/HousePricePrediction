@@ -2,5 +2,4 @@
 
 
 
-
-![image](https://github.com/kaliraotaran/HousePricePrediction/assets/81376236/7512b337-b92b-45d3-bdac-880fc2595ac4)
+![image](https://github.com/kaliraotaran/HousePricePrediction/assets/81376236/78dd1fee-977d-47e3-bf18-f6f09a82e976)
